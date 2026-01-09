@@ -1,0 +1,5 @@
+This is a test document for the Offline RAG system.
+It contains some simple facts to verify the retrieval capability.
+The capital of France is Paris.
+The largest planet in our solar system is Jupiter.
+Python is a popular programming language.
